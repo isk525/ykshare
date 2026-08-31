@@ -1,1 +1,1 @@
-ZIPを展開し、全ファイルをGitHubのykshareリポジトリ直下へ上書きアップロードしてください。キャッシュ更新用にService Workerはv4です。
+全ファイルをykshareへ上書きしてください。ミッション候補・抽選結果はFirestoreで共有されます。Service Workerはv6です。
