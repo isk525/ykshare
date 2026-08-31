@@ -1,1 +1,1 @@
-全ファイルをykshareへ上書きしてください。ミッション候補・抽選結果はFirestoreで共有されます。Service Workerはv6です。
+気づきメモをミッション抽選の上へ移動した更新版です。全ファイルをykshareへ上書きしてください。Service Workerはv8です。
