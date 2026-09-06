@@ -1,1 +1,1 @@
-v12: テディの直近1週間を1日1行表示に変更。各日のゆた・かほ写真を横並びにし、object-fit: containで画像全体が見えるように修正。全ファイルをykshareへ上書きしてください。
+v13: ヘッダーに現在のバージョン表示と手動更新ボタンを追加。更新ボタンはService Worker登録とキャッシュを削除して最新版を再読込します。version.jsonで公開版を確認できます。index.html、sw.js、version.json、README.txtをykshareへ上書きしてください。
